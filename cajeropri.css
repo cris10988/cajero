@@ -1,0 +1,42 @@
+h1{
+    background-color: rgb(128, 37, 79);
+    color: #0f0e0e;
+    border: none;
+    padding: 1em;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center; 
+}
+
+form{
+    background-color: rgb(37, 128, 67);
+    color: #0f0e0e;
+    border: none;
+    padding: 1em;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center; 
+
+   /* font-family: 'Times New Roman', Times, serif;
+    background:linear-gradient(to right, rgb(29, 136,207), rgb(110,25,143)):
+    text-align: center;
+    color: #fff;**/
+}
+
+p{
+    background-color: rgb(39, 37, 128);
+    color: #0f0e0e;
+    border: none;
+    padding: 1em;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center; 
+
+button{
+    background-color: slateblue;
+    color: #fff;
+    border: none;
+    padding: 1em;
+    border-radius: 10px;
+    cursor: pointer;
+}
